@@ -25,3 +25,13 @@ and total expenses.
 - Expenditure Analysis: Calculates and presents month GrubHub spendings.
 - Dietary Review: Demonstrates common orders or favored restaurants based on historical
 data.
+
+## Basic commands to compile and run
+- compile
+```she
+g++ -std=c++17 -Wall -Wextra grubJournal.cpp -o grubJournal 
+```
+- run
+```she
+ ./grubJournal  
+```
